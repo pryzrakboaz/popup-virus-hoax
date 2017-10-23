@@ -1,0 +1,15 @@
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\bin\Debug\Popup_windows_Virus.exe.config
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\bin\Debug\Popup_windows_Virus.exe
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\bin\Debug\Popup_windows_Virus.pdb
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.csprojResolveAssemblyReference.cache
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.Form1.resources
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.Properties.Resources.resources
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.csproj.GenerateResource.Cache
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.csproj.CoreCompileInputs.cache
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.exe
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.pdb
+c:\users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.Form2.resources
+C:\Users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\bin\Debug\Popup_windows_Virus.exe.manifest
+C:\Users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\bin\Debug\Popup_windows_Virus.application
+C:\Users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.exe.manifest
+C:\Users\phantom\source\repos\Popup_windows_Virus\Popup_windows_Virus\obj\Debug\Popup_windows_Virus.application
